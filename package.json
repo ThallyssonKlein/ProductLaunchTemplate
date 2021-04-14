@@ -11,8 +11,8 @@
     "url": "git+https://github.com/ThallyssonKlein/ProductLaunchTemplate.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "https://github.com/ThallyssonKlein",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ThallyssonKlein/ProductLaunchTemplate/issues"
   },
